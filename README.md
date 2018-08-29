@@ -1,6 +1,6 @@
 
 
-# DeepLearning
+# Deep-Learning
 Deeplearning course with codings
 
 
